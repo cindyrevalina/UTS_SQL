@@ -39,6 +39,10 @@ Menjadi bahan pembelajaran dasar tentang keamanan aplikasi web
 
 Project ini dibuat hanya untuk tujuan pembelajaran dan simulasi di lingkungan lokal. Tidak disarankan digunakan pada sistem nyata tanpa pengamanan tambahan.
 
+## Screenshot
+<img width="1180" height="556" alt="image" src="https://github.com/user-attachments/assets/4df1c679-ad42-46fd-8b84-99c9727ea2f7" />
+
+
 Cara Menjalankan
 Jalankan XAMPP (Apache & MySQL)
 Import database ke phpMyAdmin
