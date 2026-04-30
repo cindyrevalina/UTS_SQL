@@ -44,6 +44,7 @@ Project ini dibuat hanya untuk tujuan pembelajaran dan simulasi di lingkungan lo
 
 <img width="1181" height="540" alt="image" src="https://github.com/user-attachments/assets/2fe66627-70a6-49a5-8c00-eb07d8545cf4" />
 
+<img width="1181" height="516" alt="image" src="https://github.com/user-attachments/assets/7334a49e-6f43-4fa2-976c-69ed450fbcb0" />
 
 Cara Menjalankan
 Jalankan XAMPP (Apache & MySQL)
